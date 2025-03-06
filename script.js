@@ -1,0 +1,1 @@
+console.log("Roblox MM2 Script is active!");
